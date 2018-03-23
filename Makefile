@@ -1,0 +1,2 @@
+Dest:
+	gcc main.c
