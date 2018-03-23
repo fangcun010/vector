@@ -1,2 +1,2 @@
 # vector
-A C language vector library
+C language vector library
